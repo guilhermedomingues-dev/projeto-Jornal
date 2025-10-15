@@ -461,7 +461,7 @@ form {
 }
 
 /* Mobile Responsiveness */
-@media (max-width: 400px) {
+@media (max-width: 500px) {
 
     header {
         height: 90px;
@@ -908,5 +908,6 @@ form {
         background-color: rgb(219, 219, 219);
         transition: 0.5s;
     }
+
 
 }
